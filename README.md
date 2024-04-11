@@ -47,9 +47,5 @@ To contribute to MuteWhenTalk, follow these steps:
 
 Alternatively, see the GitHub documentation on [creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
 
-## Contributors
-Thanks to the following people who have contributed to this project:
-- awatchar(https://github.com/awatchar)
-
 ## License
 This project uses the following license: GNU GPL.
